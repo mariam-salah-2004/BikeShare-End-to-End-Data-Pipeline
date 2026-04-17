@@ -1,3 +1,4 @@
+# BikeShare End-to-End Data Pipeline 🚲
 # Azure Data Warehouse Migration: PostgreSQL to Synapse Analytics 🚀
 
 ## Project Overview
